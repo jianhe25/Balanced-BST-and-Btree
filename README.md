@@ -8,12 +8,14 @@ This is a self balanced tree demonstration system. The system can be used as a d
 
 All of these trees are represented by a graphical tree, I use circles with a number to denote node, and straight line to denote branches. the sample is below
 
-## BST overview
-![BST overview](https://raw.github.com/jianhe25/Balanced-BST-and-Btree/master/raw/images/overview.jpg)
+## AVL tree
+![AVL tree](https://raw.github.com/jianhe25/Balanced-BST-and-Btree/master/raw/images/overview.jpg)
 
 ## Btree
-![BST overview](https://raw.github.com/jianhe25/Balanced-BST-and-Btree/master/raw/images/Btree.jpg)
+![Btree](https://raw.github.com/jianhe25/Balanced-BST-and-Btree/master/raw/images/Btree.jpg)
 
 The system also supports the efficiency comparison of different trees, displayed with histogram.
 
+## Time Comparison when inserts 2000 numbers.
+![Statistics](https://raw.github.com/jianhe25/Balanced-BST-and-Btree/master/raw/images/Statistics.jpg)
 This is my data structure course project in 2011.
