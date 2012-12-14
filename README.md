@@ -11,6 +11,9 @@ All of these trees are represented by a graphical tree, I use circles with a num
 ## BST overview
 ![BST overview](https://raw.github.com/jianhe25/Balanced-BST-and-Btree/master/raw/images/overview.jpg)
 
+## Btree
+![BST overview](https://raw.github.com/jianhe25/Balanced-BST-and-Btree/master/raw/images/Btree.jpg)
+
 The system also supports the efficiency comparison of different trees, displayed with histogram.
 
 This is my data structure course project in 2011.
